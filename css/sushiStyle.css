@@ -1,6 +1,5 @@
 body{
 	height: 100%;
-	/*font-family: Arial, sans-serif;*/
 	font-family: 'Lato', sans-serif;
 }
 
@@ -55,6 +54,7 @@ p{
 	opacity: 0.7;
 	padding: 15px;
 	border-radius: 10px;
+	font-size: 24px;
 }
 
 img{
